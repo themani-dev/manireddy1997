@@ -1,4 +1,4 @@
-[![Mani Profile Banner](./images/img1.jpg)](https://mani-dev.com)
+[![Mani Profile Banner](./images/img1.png)](https://mani-dev.com)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kallam-manikanta-reddy-3baba7136/)
