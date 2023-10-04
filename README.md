@@ -1,4 +1,4 @@
-[![Mani Profile Banner](./images/img1.png)](https://mani-dev.com)
+[![Mani Profile Banner](./images/img1.png)](https://mani-dev.web.app)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kallam-manikanta-reddy-3baba7136/)
@@ -8,7 +8,7 @@ Hey there 👋
 
 I’m Manikanta Reddy, an ETL developer👨‍💻, Data Engineer and technology enthusiast📱 who specializes in python development and ETL architecture. I believe data is something which changes the fate of business if we understand it well. So, I am on my mission to create automated data tools which solve complex business requirements.
 
-> Want to know more about me?  [Check out my portfolio.](https://mani-dev.com/about-mani)
+> Want to know more about me?  [Check out my portfolio.](https://mani-dev.web.app)
 
 
 ## 📦 Languages and Tools: 
