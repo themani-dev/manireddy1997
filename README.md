@@ -8,7 +8,7 @@ Hey there 👋
 
 I’m Manikanta Reddy, an ETL developer👨‍💻, Data Engineer and technology enthusiast📱 who specializes in python development and ETL architecture. I believe data is something which changes the fate of business if we understand it well. So, I am on my mission to create automated data tools which solve complex business requirements.
 
-> Want to know more about me?  [Check out my portfolio.](https://mani-dev.web.app)
+> Want to know more about me?  [Check out my portfolio.](https://themani.dev)
 
 
 ## 📦 Languages and Tools: 
