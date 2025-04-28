@@ -29,5 +29,5 @@ I’m Manikanta Reddy, an ETL developer👨‍💻, Data Engineer and technology
 
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=manireddy1997&show_icons=true&theme=gotham" alt="Mani GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=themani-dev&show_icons=true&theme=gotham" alt="Mani GitHub Stats" />
 </details>
